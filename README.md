@@ -10,4 +10,8 @@ Brief Introduction
 
 2.需要预先安装Python2.7和包numpy，scipy,matplotlib
 
+3.其他算法实现将不断加入
+
+4.python版完成后，我们将跟新至C++版
+
 
